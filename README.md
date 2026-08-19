@@ -46,7 +46,7 @@
 
 ![stats](https://github-readme-stats-fast.vercel.app/api?username=yashnimde-ship-it&show_icons=true&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github)
 
-![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashnimde-shipit&title_color=7C3AED&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8)
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashnimde-ship-it&title_color=7C3AED&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com?user=yashnimde-ship-it&theme=radical&hide_border=true)
 
