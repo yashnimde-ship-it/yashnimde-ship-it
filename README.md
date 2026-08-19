@@ -55,6 +55,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=yashnimde-ship-it&color=7C3AED&style=flat-square&label=)
 
-![test](https://github-readme-stats.vercel.app/api?username=yashnimde-ship-it&show_icons=true)
+
 
 </div>
