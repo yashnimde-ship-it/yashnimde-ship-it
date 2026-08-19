@@ -2,7 +2,7 @@
 
 ![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=false&width=420&height=45&lines=yash-nimde)
 
-**Atharva University** · CE student building AI-native products · India-first, security-forward
+ CE student building AI-native products · India-first, security-forward
 
 [![email](https://img.shields.io/badge/jyashnimde@gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:jyashnimde@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-nimde-309596388/)
@@ -48,7 +48,6 @@
 
 ![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashnimde-ship-it&title_color=7C3AED&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8)
 
-![streak](https://github-readme-streak-stats.herokuapp.com?user=yashnimde-ship-it&theme=radical&hide_border=true)
 
 ![snake](https://raw.githubusercontent.com/yashnimde-ship-it/yashnimde-ship-it/output/github-snake.svg)
 
